@@ -6,4 +6,6 @@ public class Test {
     private String empAge;
     private Integer sex;
     private Integer name;
+    private Integer name1;
+
 }
