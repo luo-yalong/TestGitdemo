@@ -7,4 +7,6 @@ public class Poople {
     private Integer age;
     private Integer sex;
     private String name1;
+
+
 }
