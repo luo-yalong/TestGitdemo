@@ -5,5 +5,6 @@ public class Test {
     private String empName;
     private String empAge;
     private Integer sex;
-    拉去别人的代码
+    private Integer name;
+    private String stuName;
 }
