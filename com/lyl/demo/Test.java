@@ -6,5 +6,4 @@ public class Test {
     private String empAge;
     private Integer sex;
     private Integer name;
-    private String stuName;
 }
